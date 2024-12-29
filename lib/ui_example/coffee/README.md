@@ -1,4 +1,5 @@
-# Imperium Coffee Shop
+## Imperium Coffee Shop
+コーヒーショップのアプリをイメージしたUIデザイン。
 
 1. ロゴの代替：
 - `Icons.coffee`アイコンと'Imperium'テキストの組み合わせ

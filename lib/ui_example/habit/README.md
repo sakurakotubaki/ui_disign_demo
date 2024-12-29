@@ -1,4 +1,6 @@
 ## HabitOnboardingScreen
+立体的な切り抜いたようなUIを重ねたUIデザインをイメージしてみました。
+作るにはCustomPainterとClipPathを使います。美しいデザインは作る難易度が高い💦
 
 1. **基本構造: `Scaffold`と`Stack`**
 ```dart

@@ -1,4 +1,5 @@
-# Orange Product Screen
+## Orange Product Screen
+オレンジの商品画像を表示するUIをイメージしてみました。スライドしませんが💦
 
 1. **ベースとなる構造**
 ```dart
